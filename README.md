@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-File-Sharing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-File-Sharing?style=social&color=white" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-File-Sharing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-File-Sharing?style=social&color=white" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-File-Sharing/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/badge/Updated-October_2026-blueviolet.svg?style=flat-square" alt="Updated October 2026">
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=oFollow" /></a>
@@ -66,99 +66,99 @@ Commercial file sharing platforms provide turnkey infrastructure, global Content
 
 Transparent, privacy-preserving, and self-hosted tools. These solutions eliminate corporate data collection, telemetry, and artificial bandwidth throttling.
 
-*Sorted in descending order by GitHub Star count.*
+*Sorted in descending order by GitHub Stars_Count.*
 
-### 1. [LocalSend](https://github.com/localsend/localsend) [![GitHub stars](https://img.shields.io/github/stars/localsend/localsend?style=social&color=white)](https://github.com/localsend/localsend/stargazers)
+### 1. [LocalSend](https://github.com/localsend/localsend) [![GitHub_Stars](https://img.shields.io/github/stars/localsend/localsend?style=social&color=white)](https://github.com/localsend/localsend/stargazers)
 - **Primary Focus:** Cross-platform local network file transfer (AirDrop alternative).
 - **Technology Stack:** Flutter / Dart (Cross-platform GUI).
 - **Security & Protocol:** End-to-end encryption via HTTPS/TLS with local certificate generation.
 - **Key Highlights:** Works 100% offline over local Wi-Fi or hotspot. No account, no internet uplink, and zero telemetry. Available natively on Windows, macOS, Linux, Android, and iOS.
 
-### 2. [Syncthing](https://github.com/syncthing/syncthing) [![GitHub stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)
+### 2. [Syncthing](https://github.com/syncthing/syncthing) [![GitHub_Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)
 - **Primary Focus:** Continuous decentralized, peer-to-peer folder synchronization.
 - **Technology Stack:** Go (Backend daemon) + Web UI.
 - **Security & Protocol:** Block Exchange Protocol (BEP) with mandatory TLS encryption and cryptographic node IDs.
 - **Key Highlights:** Replaces proprietary cloud sync (Dropbox/Google Drive). Keeps folders synchronized across multiple devices in real-time over LAN or internet relays without central servers.
 
-### 3. [croc](https://github.com/schollz/croc) [![GitHub stars](https://img.shields.io/github/stars/schollz/croc?style=social&color=white)](https://github.com/schollz/croc/stargazers)
+### 3. [croc](https://github.com/schollz/croc) [![GitHub_Stars](https://img.shields.io/github/stars/schollz/croc?style=social&color=white)](https://github.com/schollz/croc/stargazers)
 - **Primary Focus:** Terminal-native, CLI-based peer-to-peer file transfer.
 - **Technology Stack:** Go.
 - **Security & Protocol:** Password Authenticated Key Exchange (PAKE) with end-to-end encryption (PAKE + AES-GCM).
 - **Key Highlights:** Allows any two computers to transfer files/folders using a human-readable code phrase (e.g. `croc send file.zip` -> `croc 7-phrase-code`). Supports NAT traversal and custom relay servers.
 
-### 4. [Nextcloud Server](https://github.com/nextcloud/server) [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)
+### 4. [Nextcloud Server](https://github.com/nextcloud/server) [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)
 - **Primary Focus:** Full-suite self-hosted private cloud storage and collaboration platform.
 - **Technology Stack:** PHP, JavaScript, PostgreSQL/MariaDB.
 - **Security & Protocol:** End-to-end server side and client side encryption, HIPAA/GDPR compliance, SAML/SSO.
 - **Key Highlights:** Complete on-premises alternative to Google Workspace and Box. Offers public download/upload links, folder sharing, document editing, and mobile/desktop synchronization.
 
-### 5. [FileBrowser](https://github.com/filebrowser/filebrowser) [![GitHub stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=social&color=white)](https://github.com/filebrowser/filebrowser/stargazers)
+### 5. [FileBrowser](https://github.com/filebrowser/filebrowser) [![GitHub_Stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=social&color=white)](https://github.com/filebrowser/filebrowser/stargazers)
 - **Primary Focus:** Lightweight web-based file manager and sharing portal.
 - **Technology Stack:** Go (Single binary) + Vue.js frontend.
 - **Security & Protocol:** Role-based access control, secure HTTPS, password-protected public share links.
 - **Key Highlights:** Turns any server, NAS, or home directory into a sleek personal file cloud within seconds. Supports custom user permissions and public link generation with expiration dates.
 
-### 6. [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) [![GitHub stars](https://img.shields.io/github/stars/magic-wormhole/magic-wormhole?style=social&color=white)](https://github.com/magic-wormhole/magic-wormhole/stargazers)
+### 6. [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) [![GitHub_Stars](https://img.shields.io/github/stars/magic-wormhole/magic-wormhole?style=social&color=white)](https://github.com/magic-wormhole/magic-wormhole/stargazers)
 - **Primary Focus:** Cryptographically secure endpoint-to-endpoint CLI file pipe.
 - **Technology Stack:** Python (with ecosystem ports in Go and Rust).
 - **Security & Protocol:** SPAKE2 key exchange with strong NaCl symmetric encryption.
 - **Key Highlights:** Safely transfers arbitrary files, directories, and text between terminal endpoints using short, single-use verbal codes (e.g., `4-scramble-aircraft`).
 
-### 7. [Snapdrop](https://github.com/SnapDrop/snapdrop) [![GitHub stars](https://img.shields.io/github/stars/SnapDrop/snapdrop?style=social&color=white)](https://github.com/SnapDrop/snapdrop/stargazers)
+### 7. [Snapdrop](https://github.com/SnapDrop/snapdrop) [![GitHub_Stars](https://img.shields.io/github/stars/SnapDrop/snapdrop?style=social&color=white)](https://github.com/SnapDrop/snapdrop/stargazers)
 - **Primary Focus:** Zero-install browser-based local file transfer (WebRTC AirDrop).
 - **Technology Stack:** Node.js, WebSockets, WebRTC.
 - **Security & Protocol:** Direct WebRTC P2P channel; files never touch the signaling server.
 - **Key Highlights:** Progressive Web App (PWA) where devices on the same local network automatically appear as icons. Click or tap to instantly beam files without installing native apps.
 
-### 8. [Seafile](https://github.com/haiwen/seafile) [![GitHub stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)
+### 8. [Seafile](https://github.com/haiwen/seafile) [![GitHub_Stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)
 - **Primary Focus:** Enterprise-performance self-hosted file syncing and cloud sharing.
 - **Technology Stack:** C, Python, Django, Go.
 - **Security & Protocol:** Block-level deduplication, client-side encryption libraries, HTTPS.
 - **Key Highlights:** Exceptional file synchronization speed and resource efficiency compared to heavier cloud suites. Features file versioning, public shared links, and virtual drive mapping.
 
-### 9. [PairDrop](https://github.com/schlagmichdoch/PairDrop) [![GitHub stars](https://img.shields.io/github/stars/schlagmichdoch/PairDrop?style=social&color=white)](https://github.com/schlagmichdoch/PairDrop/stargazers)
+### 9. [PairDrop](https://github.com/schlagmichdoch/PairDrop) [![GitHub_Stars](https://img.shields.io/github/stars/schlagmichdoch/PairDrop?style=social&color=white)](https://github.com/schlagmichdoch/PairDrop/stargazers)
 - **Primary Focus:** Modernized, resilient browser-to-browser P2P file sharing.
 - **Technology Stack:** Node.js, WebRTC, WebSockets.
 - **Security & Protocol:** WebRTC DataChannels with TLS signaling; optional TURN relay.
 - **Key Highlights:** Fork of Snapdrop fixing NAT traversal limitations. Supports persistent device pairing across networks via 6-digit codes or QR scans, public temporary rooms, and multi-file downloads.
 
-### 10. [qrcp](https://github.com/claudiodangelis/qrcp) [![GitHub stars](https://img.shields.io/github/stars/claudiodangelis/qrcp?style=social&color=white)](https://github.com/claudiodangelis/qrcp/stargazers)
+### 10. [qrcp](https://github.com/claudiodangelis/qrcp) [![GitHub_Stars](https://img.shields.io/github/stars/claudiodangelis/qrcp?style=social&color=white)](https://github.com/claudiodangelis/qrcp/stargazers)
 - **Primary Focus:** Transfer files between PC and mobile via terminal QR code.
 - **Technology Stack:** Go (Single binary).
 - **Security & Protocol:** Ephemeral local HTTP server bound to network interface.
 - **Key Highlights:** Run `qrcp send file.pdf` in your terminal, scan the generated terminal QR code with your phone camera, and download directly without client-side apps.
 
-### 11. [FilePizza](https://github.com/kern/filepizza) [![GitHub stars](https://img.shields.io/github/stars/kern/filepizza?style=social&color=white)](https://github.com/kern/filepizza/stargazers)
+### 11. [FilePizza](https://github.com/kern/filepizza) [![GitHub_Stars](https://img.shields.io/github/stars/kern/filepizza?style=social&color=white)](https://github.com/kern/filepizza/stargazers)
 - **Primary Focus:** Serverless in-browser peer-to-peer file transfers over WebTorrent/WebRTC.
 - **Technology Stack:** JavaScript / WebRTC / WebTorrent.
 - **Security & Protocol:** Peer-to-peer decentralized streaming; zero intermediate cloud disk storage.
 - **Key Highlights:** Drop a file onto the browser window to generate an instant link. The recipient streams the file bytes directly from your open browser tab in real time.
 
-### 12. [OnionShare](https://github.com/onionshare/onionshare) [![GitHub stars](https://img.shields.io/github/stars/onionshare/onionshare?style=social&color=white)](https://github.com/onionshare/onionshare/stargazers)
+### 12. [OnionShare](https://github.com/onionshare/onionshare) [![GitHub_Stars](https://img.shields.io/github/stars/onionshare/onionshare?style=social&color=white)](https://github.com/onionshare/onionshare/stargazers)
 - **Primary Focus:** Completely anonymous, untraceable file sharing via the Tor Onion network.
 - **Technology Stack:** Python, PyQt, Tor Onion Services.
 - **Security & Protocol:** Tor end-to-end onion routing; sender and receiver IP addresses remain hidden.
 - **Key Highlights:** Hosts files directly from your computer as an ephemeral `.onion` web service. Accessible only through Tor Browser with un-censorable, zero-metadata transmission.
 
-### 13. [Send (Mozilla Send Fork)](https://github.com/timvisee/send) [![GitHub stars](https://img.shields.io/github/stars/timvisee/send?style=social&color=white)](https://github.com/timvisee/send/stargazers)
+### 13. [Send (Mozilla Send Fork)](https://github.com/timvisee/send) [![GitHub_Stars](https://img.shields.io/github/stars/timvisee/send?style=social&color=white)](https://github.com/timvisee/send/stargazers)
 - **Primary Focus:** Private, client-side encrypted ephemeral file sharing links.
 - **Technology Stack:** JavaScript, Node.js, Redis/S3.
 - **Security & Protocol:** Client-side 128-bit AES-GCM encryption before upload; decryption key stored in URL anchor hash.
 - **Key Highlights:** Production-ready community fork of Firefox Send. Uploaded files self-destruct after a configurable download count (1–100) or time duration (up to 7 days).
 
-### 14. [Pingvin Share](https://github.com/stonith404/pingvin-share) [![GitHub stars](https://img.shields.io/github/stars/stonith404/pingvin-share?style=social&color=white)](https://github.com/stonith404/pingvin-share/stargazers)
+### 14. [Pingvin Share](https://github.com/stonith404/pingvin-share) [![GitHub_Stars](https://img.shields.io/github/stars/stonith404/pingvin-share?style=social&color=white)](https://github.com/stonith404/pingvin-share/stargazers)
 - **Primary Focus:** Modern, self-hosted, privacy-focused alternative to WeTransfer.
 - **Technology Stack:** TypeScript, Next.js, NestJS, Prisma.
 - **Security & Protocol:** Reverse proxy HTTPS support, password protection, expiration timers.
 - **Key Highlights:** Lightweight Docker deployment providing an elegant web UI. Features reverse-share upload requests, link expiration, download quotas, and email notifications.
 
-### 15. [KDE Connect](https://github.com/KDE/kdeconnect-kde) [![GitHub stars](https://img.shields.io/github/stars/KDE/kdeconnect-kde?style=social&color=white)](https://github.com/KDE/kdeconnect-kde/stargazers)
+### 15. [KDE Connect](https://github.com/KDE/kdeconnect-kde) [![GitHub_Stars](https://img.shields.io/github/stars/KDE/kdeconnect-kde?style=social&color=white)](https://github.com/KDE/kdeconnect-kde/stargazers)
 - **Primary Focus:** Comprehensive device integration, file beam, and notification synchronization.
 - **Technology Stack:** C++, Qt, KDE Frameworks.
 - **Security & Protocol:** TLS 1.3 encryption with paired device RSA key exchange.
 - **Key Highlights:** Native desktop integration for Linux, Android, Windows, and macOS. Shares files and URLs with right-click ease, alongside remote input control and shared clipboards.
 
-### 16. [Warpinator](https://github.com/linuxmint/warpinator) [![GitHub stars](https://img.shields.io/github/stars/linuxmint/warpinator?style=social&color=white)](https://github.com/linuxmint/warpinator/stargazers)
+### 16. [Warpinator](https://github.com/linuxmint/warpinator) [![GitHub_Stars](https://img.shields.io/github/stars/linuxmint/warpinator?style=social&color=white)](https://github.com/linuxmint/warpinator/stargazers)
 - **Primary Focus:** Native Linux and LAN peer-to-peer file transfer.
 - **Technology Stack:** Python, GTK, gRPC.
 - **Security & Protocol:** Zero-configuration LAN discovery (mDNS), TLS encryption, custom group pin codes.
@@ -189,7 +189,7 @@ Need help picking the exact file sharing solution for your workflow? Use this qu
 Use peer-to-peer tools like **[LocalSend](https://github.com/localsend/localsend)** (for devices on the same Wi-Fi) or **[croc](https://github.com/schollz/croc)** / **[Send Anywhere](https://send-anywhere.com/)** (over the internet). Because files stream directly device-to-device rather than uploading to a cloud disk, there are virtually no file size limitations.
 
 ### 2. What is the safest open-source alternative to Apple AirDrop?
-**[LocalSend](https://github.com/localsend/localsend)** is the undisputed community standard with over 95,000 GitHub stars. It provides full cross-platform compatibility across Windows, Mac, Linux, Android, and iOS using local TLS encryption without internet dependencies.
+**[LocalSend](https://github.com/localsend/localsend)** is the undisputed community standard with over 95,000 GitHub_Stars. It provides full cross-platform compatibility across Windows, Mac, Linux, Android, and iOS using local TLS encryption without internet dependencies.
 
 ### 3. Do browser-based transfer tools like PairDrop or FilePizza store my files?
 No. Tools built on **WebRTC** establish a direct peer-to-peer data channel between browser tabs. Signaling servers only negotiate the initial IP/port handshake; file payloads stream straight between endpoints and never touch intermediate storage.
@@ -204,7 +204,7 @@ Contributions, project suggestions, and documentation improvements are warmly we
 2. 🌿 **Create a descriptive feature branch**: `git checkout -b add-my-file-tool`.
 3. 📝 **Add your entry** to `README.md`:
    - Keep SaaS entries in the tabular format with specific pricing and verified free tier caps.
-   - For open-source projects, include the official repository link, GitHub star badge (`style=social&color=white`), and an objective architectural summary.
+   - For open-source projects, include the official repository link, GitHub Stars_Badge (`style=social&color=white`), and an objective architectural summary.
 4. 🚀 **Submit a Pull Request** with a concise explanation of why the tool adds value to the community.
 
 ---

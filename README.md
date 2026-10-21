@@ -5,11 +5,13 @@
 # 🚀 Awesome File Sharing
 
 <p align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT"></a>
   <a href="https://github.com/ishandutta2007/Awesome-File-Sharing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-File-Sharing?style=social&color=white" alt="GitHub Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-File-Sharing/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/badge/Updated-October_2026-blueviolet.svg?style=flat-square" alt="Updated October 2026">
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=oFollow" /></a>
 </p>
 
 > 📂 **A curated directory of top SaaS platforms and open-source file transfer tools.**  
@@ -25,6 +27,8 @@
 - [🎯 Decision Matrix: Choosing the Right Tool](#-decision-matrix-choosing-the-right-tool)
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
 - [⚖️ Disclaimer & Security Best Practices](#️-disclaimer--security-best-practices)
 
 ---
@@ -202,6 +206,28 @@ Contributions, project suggestions, and documentation improvements are warmly we
    - Keep SaaS entries in the tabular format with specific pricing and verified free tier caps.
    - For open-source projects, include the official repository link, GitHub star badge (`style=social&color=white`), and an objective architectural summary.
 4. 🚀 **Submit a Pull Request** with a concise explanation of why the tool adds value to the community.
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-File-Sharing&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-File-Sharing&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting **Awesome File Sharing**! If this curated collection helped you find the right file sharing tools or simplified your transfer workflows, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork the repository** and submit Pull Requests to add new open-source projects or SaaS tools.
+- 📢 **Share with your community** on Twitter/X, LinkedIn, Reddit, or Discord.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and curation on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
